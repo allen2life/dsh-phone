@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-phone
+      name: dsh-phone
+      config: {}

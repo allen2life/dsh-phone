@@ -1,0 +1,10 @@
+{
+  "id": "note-book",
+  "name": { "zh": "便签本", "en": "Notebook" },
+  "version": "1.0.0",
+  "entry": "main.js",
+  "icon": "icon.svg",
+  "api": 1,
+  "permissions": ["storage"],
+  "description": "写一句话，它会被记住。"
+}
